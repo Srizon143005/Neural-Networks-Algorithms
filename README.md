@@ -4,11 +4,11 @@
 <p>This repository contains five popular neural networks algorithms implementation in python. Among them, 3 are supervised and 2 are unsupervised Not only that but also it contains the proper documentation of each algorithm. You can find out the documentation inside the corresponding folder. I would like to express my heartfelt gratitude to <b>Prof. Dr. Md. Rabiul Islam Sir, Professor, Dept. of CSE, RUET</b> for the guidelines.</p>
 
 
-<p>The algorithms implmented are:</p>
+<p>The algorithms implemented are:</p>
 
 
 <ol>
-    <li>Nearest Neighbour Algorithm</li>
+    <li>Nearest Neighbor Algorithm</li>
     <li>Perceptron Learning Algorithm</li>
     <li>Back Propagation Algorithm</li>
     <li>Kohonen Network Algorithm</li>
