@@ -1,0 +1,4931 @@
+Adjusted Weight from i to j layer: [[2.687320091622172, 0.7287091333847455, 3.002381146064435, -2.6493596933841355, -0.7631570914846859], [-0.04367901736467316, -0.85397826997193, 5.005521248409972, 3.609629796845732, 4.589602011158202], [0.30534066009258676, 0.77125351286189, -0.2641578611474258, -0.018552071061873524, -0.19570875882075567], [-0.5783599673218245, 0.3104846328806574, -1.0021083240502366, -0.7163846975186012, -0.27785424938113834], [-0.1798056837206607, 0.3850415691748971, 0.2276314070936109, -0.46300771203645075, -0.12110491068530543], [0.20380900822450085, 1.2801463719458923, -0.48557880560752614, -0.540332188963911, -0.3284290750824528], [1.079897911005912, 0.5405395042830516, 0.5850245146372659, -0.47991518386487053, 0.1069905459829758], [-0.5290612695280544, 1.1473454706439623, -0.9954775009569465, 0.38595822650593076, 0.08141133358283681], [0.568361820196688, 0.3657539317514982, -0.39076164943245834, 0.8951912720252463, 0.28105616740569284], [0.5561357357137171, 0.9797038529488911, -0.17889440967832548, 0.604588968263917, 0.29273255187299985]]
+Adjusted Threshold of j layer: [-0.528831725224571, 1.027837094143138, -2.090195631519417, 0.11631476696403131, -1.2734957417024213]
+Adjusted Weight from j to k layer: [[0.9638514775684263, -0.29832521486675695], [-0.0331907585350793, -0.9324654224299109], [1.2064037658289029, 1.8267997186742915], [-1.2083063945640908, 1.0750408024922744], [-0.41873822859695325, 1.4366820041631578]]
+Adjusted Threshold of k layer: [-0.45753870680341713, -1.3206275479526721]
+
+Current Input: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43629166377393086, 0.4368190689473586]
+Error: 0.190580657437331
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42874116708712473, 0.4341760632826759]
+Error: 0.18616392114143598
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4213385873368396, 0.44157910593332383]
+Error: 0.18625915598793863
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4150388266158916, 0.43947613744699093]
+Error: 0.1826982514920113
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4084319107282326, 0.41436899770033647]
+Error: 0.16925914597814823
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.3954000178831206, 0.42177216791259237]
+Error: 0.16711646788383006
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.39059186875662005, 0.4230485537435627]
+Error: 0.1657660433816544
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4693589416523383, 0.432663316224129]
+Error: 0.2037476806575319
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.46094761603259105, 0.4310772869360196]
+Error: 0.19915016601912416
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4527659101375051, 0.4371524408315197]
+Error: 0.19804961295379936
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4444926778931574, 0.436805956167749]
+Error: 0.1941865920221258
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4387812132413941, 0.40891121146521364]
+Error: 0.1798686659777692
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43152887981976845, 0.4111281618672979]
+Error: 0.17762176979944364
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4178788561891273, 0.41919571544164114]
+Error: 0.17517389314728135
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4440892644439468, 0.3958285129181687]
+Error: 0.17694774321668727
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4369379478268154, 0.3966575366259051]
+Error: 0.17412598580662003
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42294593668040015, 0.40466207199893023]
+Error: 0.17131732893446422
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.41778803758316163, 0.38016224833316836]
+Error: 0.15953508970265942
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.40482268648173414, 0.389789761768747]
+Error: 0.15790873293501248
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4682210971554095, 0.39387574346869897]
+Error: 0.1871845485572179
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4517604062986888, 0.4018583151272722]
+Error: 0.1827887850680432
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.44065060613475493, 0.3802663501532459]
+Error: 0.16938772687289896
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43830756045474933, 0.42570753654393745]
+Error: 0.18667021211105078
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4234763652383202, 0.43153101052480886]
+Error: 0.18277562248001095
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.41750289596344664, 0.40513633265338694]
+Error: 0.16922205808685017
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.41021155842925155, 0.40723032374254514]
+Error: 0.1670550296222067
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4033344400769239, 0.4129369800886222]
+Error: 0.16659781003843843
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.39759176994561113, 0.4156219493345481]
+Error: 0.16541041014856672
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.47956896221704104, 0.42470029749070454]
+Error: 0.20517836610531132
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4714042137993517, 0.42364460041242813]
+Error: 0.2008483401231954
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.46297681786082684, 0.4288716466769238]
+Error: 0.19913921159995668
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4409393520971045, 0.40387655341260703]
+Error: 0.17877189131213034
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4332905566735554, 0.40823642849282493]
+Error: 0.17719884402552843
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 0, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4263220234832613, 0.41229409174999504]
+Error: 0.17586844289940787
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.45334802146283565, 0.38784956016969196]
+Error: 0.1779758549440456
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4462941556816296, 0.38913767044160535]
+Error: 0.17530329997614905
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43867548628570235, 0.3941746247258451]
+Error: 0.17390490852287913
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43167032921093307, 0.39716037634121887]
+Error: 0.17203781882828698
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.42648423066452346, 0.3720591589706393]
+Error: 0.16015840838972495
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.41975370625991093, 0.37712979883629366]
+Error: 0.15921002954461744
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.41292189587057987, 0.38158514872061955]
+Error: 0.15805585890674567
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.40698401977846266, 0.3876369036197571]
+Error: 0.15794918070147448
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4855457121092964, 0.38574171777368815]
+Error: 0.19227565568935973
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.47826757411372417, 0.38756298107707754]
+Error: 0.1894724683749889
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4702050511957743, 0.3910551360308971]
+Error: 0.1870084547930821
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.46180295144291944, 0.39511104793179885]
+Error: 0.18468735307957784
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.45649270561473887, 0.36830925081947535]
+Error: 0.1720186472593339
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4424325345683636, 0.37685673108771933]
+Error: 0.16888377170535393
+Correctness: Correct
+
+Current Input: [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4353752429470555, 0.38371489668424036]
+Error: 0.16839436205430242
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4302136726806699, 0.3995219931836326]
+Error: 0.17235081359940657
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42304801106699724, 0.3984785131276629]
+Error: 0.16887737254608762
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.41615123577838703, 0.40656503827742696]
+Error: 0.16923849069470215
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.40972493928034953, 0.4067601615459969]
+Error: 0.16666417744460582
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.406437714864409, 0.3832306009430475]
+Error: 0.15602865478168598
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.39944745327849995, 0.3861893675903434]
+Error: 0.15435024778525439
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.3933075792212687, 0.3932059830514004]
+Error: 0.15465089849015637
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.3877072891638562, 0.39690002904819505]
+Error: 0.15392328756462204
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4605031441792585, 0.3931676214327803]
+Error: 0.18332196217104646
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.45354639643052147, 0.39262833383941076]
+Error: 0.17993067112431177
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.44610273041964743, 0.3991387067802986]
+Error: 0.1791596766690569
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43388251894535124, 0.37573216464327847]
+Error: 0.1647143498969434
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42739676413014294, 0.3792943792138856]
+Error: 0.16326611004608194
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4206614149868, 0.3849930301759553]
+Error: 0.1625878296713804
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 0, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.414474534537421, 0.3899081710986583]
+Error: 0.1619087608347562
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43904521073726877, 0.363850668232931]
+Error: 0.1625740029224416
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43290808608509385, 0.3656983842969876]
+Error: 0.1605723596376431
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4262647452977388, 0.3719656428349859]
+Error: 0.1600300362666952
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42005728360201616, 0.375653475850271]
+Error: 0.1587818277127474
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4106025326841688, 0.3591802081303629]
+Error: 0.14880243087961237
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4045002841047986, 0.3646910148038134]
+Error: 0.148310008059749
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.3988597015318369, 0.3714110890413464]
+Error: 0.14851762928447249
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4623283833910288, 0.3605089838280362]
+Error: 0.17185713075484269
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.45535516220864913, 0.365210935828146]
+Error: 0.1703636756992677
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4483501325808295, 0.36975936578064567]
+Error: 0.16886991498387635
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.44369597465027444, 0.3469389530883545]
+Error: 0.15861637754545022
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4381483492753209, 0.3526100674919604]
+Error: 0.15815391783468674
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4316878601074925, 0.3569783928646387]
+Error: 0.15689399076820318
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 0, 1, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42561097089583977, 0.36435529163443436]
+Error: 0.15694973854445654
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4390283209516294, 0.39000924977319246]
+Error: 0.1724265407531277
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43192882561413937, 0.38935057186420646]
+Error: 0.1690781891036971
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.42482947981877794, 0.39650021386432993]
+Error: 0.1688462532587764
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.41800423666106046, 0.3976065888561392]
+Error: 0.16640927068420536
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.407683790846532, 0.3771621297021734]
+Error: 0.15422867270023893
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.40125298278626903, 0.3834175529986698]
+Error: 0.15400648807118283
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.46920776945795306, 0.3853429586395964]
+Error: 0.18432256334641267
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4627892623505018, 0.3849560012186813]
+Error: 0.18118251211059944
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.45529555558798224, 0.3903992312087799]
+Error: 0.1798528013332879
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.44798284236621994, 0.3924161391323542]
+Error: 0.17733952665303032
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4422353689115032, 0.3676398910821809]
+Error: 0.16536560551560558
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43597151538760365, 0.37143827983102445]
+Error: 0.16401877897659697
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 0, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4226583850962092, 0.3818519394059757]
+Error: 0.1622255070601202
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4468754009054184, 0.35598798647701657]
+Error: 0.16321253522516949
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.44115731550838366, 0.35793889395168044]
+Error: 0.16137001441495796
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4344954113279689, 0.36321657796808027]
+Error: 0.1603562724879517
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4282885663191237, 0.3673663483845752]
+Error: 0.15919456498255374
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.42459603786432226, 0.3454910659649219]
+Error: 0.1498229360158295
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.41848710091522234, 0.3511686453331752]
+Error: 0.14922543554878245
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4122865052084513, 0.3559827124351388]
+Error: 0.1483519269648385
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.40632913063405257, 0.36318411383640753]
+Error: 0.14850303147248078
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4756960937476223, 0.3522572828577024]
+Error: 0.175185983466519
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4707138079836687, 0.3542034614154851]
+Error: 0.17351579055259858
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.45731965490350873, 0.36246454121389493]
+Error: 0.17026090519923182
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4510770279985472, 0.3403345018359647]
+Error: 0.1596490291639682
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4460913795109456, 0.3457235528790918]
+Error: 0.15926114694466031
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4396668023107787, 0.3493379274027155]
+Error: 0.15767194228810516
+Correctness: Correct
+
+Current Input: [0, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4337505805995037, 0.35675198502036043]
+Error: 0.157705772493187
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43824323677740445, 0.41610278814641183]
+Error: 0.18259933244217694
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43098703009054656, 0.41543200249603035]
+Error: 0.17916678440206574
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4111697128291203, 0.3975245615264806]
+Error: 0.16354315488240095
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.40492589675714963, 0.40056286189561763]
+Error: 0.16220779409729472
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.398670462152213, 0.4059196799273345]
+Error: 0.1618544619724844
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.394080963354889, 0.4092017161724668]
+Error: 0.16137292509860474
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.47077173067727235, 0.41217760540735887]
+Error: 0.19575820040210934
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4623432327619821, 0.4127682562011282]
+Error: 0.19206944910406026
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.45428385473913374, 0.4177857405915173]
+Error: 0.19045937285912445
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4413047950292172, 0.39231189427620394]
+Error: 0.1743292722531814
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4341747186864981, 0.39647485621031314]
+Error: 0.17284999897674413
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4270485209394347, 0.40069045309963325]
+Error: 0.1714616392208741
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42058284013251707, 0.4055963584434613]
+Error: 0.1706991656982656
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43243930397787483, 0.3867615983501524]
+Error: 0.1682941427916167
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42585530821825973, 0.3908024949426098]
+Error: 0.1670396667955188
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.42108506387630956, 0.3670622604262954]
+Error: 0.1560236670244886
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4034524037843876, 0.3839568154452146]
+Error: 0.15509833912311555
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.47786182662425625, 0.3757168860062123]
+Error: 0.18475755188743792
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4621299086761718, 0.38288061921239197]
+Error: 0.1800808105307558
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.45347978643918885, 0.3882444767249163]
+Error: 0.1781888452081682
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.45054407891479226, 0.3620584257545129]
+Error: 0.16703813535250733
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4436912168597361, 0.36859562678886576]
+Error: 0.16636231600317508
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4366485583027797, 0.37199388435936204]
+Error: 0.16452070673433122
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 0, 1, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4297011099140506, 0.3796328242130151]
+Error: 0.1643820625406585
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.44786021995551967, 0.40749627509856806]
+Error: 0.18331599541890714
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.44038154768578414, 0.407604881453723]
+Error: 0.18003882346351507
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43269226581860787, 0.41325101944787745]
+Error: 0.1789995009869754
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4199708762076552, 0.38899370647905296]
+Error: 0.16384582027146866
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4131739799429699, 0.39293385205106107]
+Error: 0.16255487489479942
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4064199651257638, 0.3977255188735196]
+Error: 0.16168138820801872
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.40096384044714695, 0.4022329446513722]
+Error: 0.1612816715545195
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.48086206680689786, 0.4048967652509051]
+Error: 0.19758485890222405
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.47273159349693994, 0.405953203880378]
+Error: 0.1941365816154499
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.46442379823855584, 0.4101302464757189]
+Error: 0.19194814172228036
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.45576137249556914, 0.4129678330549618]
+Error: 0.18913042989857787
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4506611357860611, 0.38500509375558806]
+Error: 0.17566219076286588
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.443459285848366, 0.38964009387565673]
+Error: 0.1742377704802867
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.435954020844039, 0.3932410569761863]
+Error: 0.17234721859091648
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 0, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42897035676822753, 0.39900018567958145]
+Error: 0.17160835757910045
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4555718548740424, 0.37174483129263985]
+Error: 0.1728699672730844
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4413779051550158, 0.3789958130110439]
+Error: 0.16922614071946612
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.42952230649440243, 0.3595398653995582]
+Error: 0.1568791632939019
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42322745356177177, 0.36584213377696584]
+Error: 0.15648097214743253
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4165203652239743, 0.36971142641063576]
+Error: 0.15508787673244995
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4107957199188078, 0.3769321284421574]
+Error: 0.15541547647777332
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.48717233802005677, 0.36990530727031706]
+Error: 0.18708341163933806
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.47990661469303664, 0.3733925093569575]
+Error: 0.18486616243500817
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4634668681248548, 0.38180523920440185]
+Error: 0.18028838926669605
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4592776124002054, 0.35575479182791847]
+Error: 0.16874869858027947
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4455040208216659, 0.36500197406656953]
+Error: 0.16585013682038202
+Correctness: Correct
+
+Current Input: [0, 0, 1, 0, 1, 1, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4383774981249011, 0.37291537713100664]
+Error: 0.1656203546815043
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4193854190130023, 0.3893813985277909]
+Error: 0.16375100160008493
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4132315786128409, 0.3916135804282061]
+Error: 0.16206076696932975
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4096258702191708, 0.3689396027440756]
+Error: 0.15195489201288465
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.40319126695387586, 0.3736148579585759]
+Error: 0.15107562991763923
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.3918932884043079, 0.3850071598643426]
+Error: 0.15090543132157475
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.46290452135482396, 0.37536871142564165]
+Error: 0.17759113270404264
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4561350074397323, 0.37687760679564686]
+Error: 0.1750479377580294
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.44883416934314546, 0.3823525976640111]
+Error: 0.17382281025518426
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4372357381910375, 0.36172403725425883]
+Error: 0.16100968493949097
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4310507620841448, 0.3669183853850045]
+Error: 0.16021693051343033
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4244274083545645, 0.37178560550842016]
+Error: 0.15918158071291744
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 0, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.41831285645095884, 0.37828105563510134]
+Error: 0.15904110146228356
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.44220427179712757, 0.3497499633617776]
+Error: 0.15893482743359633
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43650168875141615, 0.3532795479150944]
+Error: 0.15767008162896584
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4299731220171675, 0.3586070227226624]
+Error: 0.15673794120160106
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4239744361883883, 0.3639230842379843]
+Error: 0.1560971668912744
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4205454884707966, 0.3427207353186376]
+Error: 0.1471580051452443
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4147913173602593, 0.3494292858642613]
+Error: 0.1470763313885335
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4087642033157163, 0.3542566859136834]
+Error: 0.1462929867134392
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.470960820936093, 0.34454827254212494]
+Error: 0.17025880348428052
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4584680147737438, 0.3522403048102333]
+Error: 0.16713307645169193
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4421616765054394, 0.3428763014358254]
+Error: 0.15653555312820594
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4358127946285548, 0.3467443075508648]
+Error: 0.15508220339043982
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4297383943981487, 0.3550655045216739]
+Error: 0.15537330006056482
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4348056311647073, 0.3739507310574505]
+Error: 0.16444754307547058
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 0, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.42784399167124837, 0.38003639095942676]
+Error: 0.16373906983132674
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42137021371535405, 0.38310294772523357]
+Error: 0.1621603627811431
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.41780012242898157, 0.360057480033937]
+Error: 0.15209916561503045
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4112004236199154, 0.3652003647118248]
+Error: 0.15122854738542385
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.40486878625647205, 0.370559144999277]
+Error: 0.15061640701369203
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.3990218700643562, 0.37681654890844407]
+Error: 0.1506045821604629
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.47138268332549277, 0.36824072137850533]
+Error: 0.1789014315102519
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4652196270930516, 0.36980408848409685]
+Error: 0.17659218264607585
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.45062114332945086, 0.3782220080257636]
+Error: 0.17305565108529114
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4453399877066357, 0.35427712577269327]
+Error: 0.16191999324815357
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.43945141218102307, 0.35951245302652857]
+Error: 0.16118337377452369
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 0, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.43269589908548933, 0.36366101051493654]
+Error: 0.1597375358270724
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.44974541658086875, 0.3426078480358625]
+Error: 0.1598255386356319
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 0, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.44453089187191286, 0.34607885073853534]
+Error: 0.15868914237847184
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 0, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.42800742000706593, 0.33522525206420145]
+Error: 0.14778316060130617
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.42246234345464245, 0.3418427673042678]
+Error: 0.14766545459771405
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.41076971138389495, 0.35415465530918533]
+Error: 0.1470786378337881
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.47831782900655695, 0.3390274066991008]
+Error: 0.17186376401933168
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.4735256850838028, 0.34238847987486043]
+Error: 0.17072822279255126
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 1, 0, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.46682628047238556, 0.34542593620720335]
+Error: 0.16862292677215265
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 1, 0, 1, 1]
+Target Output: [0, 0]
+Calculated Output: [0.46029249356081414, 0.35132263380519996]
+Error: 0.16764838632612739
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 1, 1, 0, 0]
+Target Output: [0, 0]
+Calculated Output: [0.45463419596153437, 0.33003493826129787]
+Error: 0.15780765630536478
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [0, 0]
+Calculated Output: [0.44994737932448253, 0.3362635018634494]
+Error: 0.15776289342321992
+Correctness: Correct
+
+Current Input: [0, 0, 1, 1, 1, 1, 1, 1, 1, 0]
+Target Output: [0, 0]
+Calculated Output: [0.4436563961714007, 0.33948711602262777]
+Error: 0.15604124990457796
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4402214549153376, 0.6989036065171698]
+Error: 0.14222698376807197
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44019458935931743, 0.6886819318245506]
+Error: 0.14534510803685594
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.43620433511895734, 0.6938235094531799]
+Error: 0.14200913267006932
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41583209780195673, 0.673046612666623]
+Error: 0.13990742552557267
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.41565110169859537, 0.662905213673849]
+Error: 0.14319936665576471
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41122974293820497, 0.6657350019021488]
+Error: 0.1404214952151893
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.465477799445744, 0.6851338793539643]
+Error: 0.1579051278537681
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4614594064665247, 0.690676374070865]
+Error: 0.15431294468719237
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4427651576710498, 0.6717218219446062]
+Error: 0.15190377351741924
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4380384644909756, 0.666639784102935]
+Error: 0.15150336495827474
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4388053464631392, 0.6578142390085558]
+Error: 0.15482061355496468
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.44299471276401453, 0.6671558094390917]
+Error: 0.153514785363509
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44164580868415865, 0.659364284743261]
+Error: 0.1555418554183773
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4367907942627416, 0.6630647875248441]
+Error: 0.15215576767917754
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4368510406219258, 0.6541504455453632]
+Error: 0.15522537300446515
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4098452733908974, 0.6352785233170866]
+Error: 0.1504974518373122
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4102431951359336, 0.6275736290935306]
+Error: 0.1535004404509514
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4709340300435325, 0.6634192156467064]
+Error: 0.16753274252446057
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46359058410778, 0.6620702695273095]
+Error: 0.16455636620536893
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.46224632071805394, 0.6558284653294484]
+Error: 0.16606285314743036
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.44514133874279577, 0.6421566687372728]
+Error: 0.16310133059346715
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4434671373830713, 0.6378455487680417]
+Error: 0.16390947424292837
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.43812959650908767, 0.6387524820496161]
+Error: 0.16122865628126445
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 0, 1, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.43761652242667165, 0.6333346231797524]
+Error: 0.1629758596297739
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4447210626240147, 0.6935500032801897]
+Error: 0.14584421201550227
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4438732478777673, 0.6847115411679947]
+Error: 0.14821513622710947
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.43965905371715114, 0.6900541019188954]
+Error: 0.14468327162638164
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.41966542264466933, 0.6612869273249661]
+Error: 0.14542280628224588
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41502823230887237, 0.6640278806130682]
+Error: 0.14256284930938706
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4157571878100479, 0.6546352814126994]
+Error: 0.14606541403030238
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4695689301566739, 0.6804192100240305]
+Error: 0.161313430745074
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4652706526503115, 0.6860708349751977]
+Error: 0.15751415043540817
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4467142173610556, 0.661599893618596]
+Error: 0.157034111995723
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 0, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.44200495272080026, 0.6644247314657751]
+Error: 0.153989569540767
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4487955456304859, 0.6619378209897158]
+Error: 0.1578517393274735
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44658822177518176, 0.656123553454083]
+Error: 0.1588460251586829
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.44144267145839666, 0.6598315484660743]
+Error: 0.15529310380165734
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4409063617898645, 0.6527840781802767]
+Error: 0.15747865811594752
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.42221563042488425, 0.6384123796666731]
+Error: 0.1545058228767003
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4200942637150126, 0.6337230704624066]
+Error: 0.15531898975887284
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4146367726708355, 0.6345098844085094]
+Error: 0.15275333892298362
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4143848796597242, 0.6285609319215684]
+Error: 0.15484090489278893
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.47714302579943807, 0.6574021946350634]
+Error: 0.1725193616549571
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.47404623912508387, 0.6542008808815956]
+Error: 0.17214843380585032
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46876733854869673, 0.6580964391060401]
+Error: 0.1683204313209991
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4514338376579987, 0.6388217292730005]
+Error: 0.16712112651398703
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4489806568744506, 0.6364601884582278]
+Error: 0.1668724124116202
+Correctness: Correct
+
+Current Input: [0, 1, 0, 0, 1, 1, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4433360991622701, 0.6374413267477322]
+Error: 0.16399784418543145
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.42679448089953437, 0.6712495572765416]
+Error: 0.14511519125858646
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.42436570456622474, 0.6615714097351014]
+Error: 0.14731008096033749
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41909195253509374, 0.666146800024066]
+Error: 0.14354801190692412
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.41858194603183363, 0.6549206457628666]
+Error: 0.14714530313225693
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.3991498194637627, 0.6408479479006094]
+Error: 0.1441553874525789
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.39663929409789844, 0.6318633304327921]
+Error: 0.1464236685512574
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.39085753063248885, 0.6239960805807532]
+Error: 0.14707427833538123
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.45556121323107934, 0.6679194050106495]
+Error: 0.158906770284527
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4528741076239601, 0.6602207123140191]
+Error: 0.16027246084829536
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4474463713664035, 0.6650946520348054]
+Error: 0.15618492367232473
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44621096605026506, 0.6560905695271165]
+Error: 0.15868896129584692
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.427782992372179, 0.6418280540479496]
+Error: 0.1556427157149871
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.42546522481929516, 0.6349808458638043]
+Error: 0.1571298202084186
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4197724428911588, 0.6370335350755261]
+Error: 0.15397677923529027
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4191462778505632, 0.6290563413431756]
+Error: 0.1566414000668461
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.42920792659985146, 0.6348784656844895]
+Error: 0.158766589538528
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41939217101915766, 0.6313398415568594]
+Error: 0.15590005276774194
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.41773937144531476, 0.6234989481934108]
+Error: 0.1581296122334973
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.3960971065036537, 0.6005837555921641]
+Error: 0.15821312703871343
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.39010493776116667, 0.6010756740826209]
+Error: 0.15566124013713953
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.3889493659825258, 0.5949669845936632]
+Error: 0.15766667643367932
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46009492104713, 0.6333885032468716]
+Error: 0.17304566296246693
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.455867416409797, 0.6293611931842216]
+Error: 0.1725941132309836
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4494610229826097, 0.6324163258304156]
+Error: 0.16856648434829258
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.43007777221043714, 0.608434775645331]
+Error: 0.16914510753670747
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.42645251494734693, 0.6055483954200682]
+Error: 0.1687269079303
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4199577535291206, 0.6058649797179494]
+Error: 0.16585346448097904
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 0, 1, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4181185307946557, 0.6016624069356478]
+Error: 0.16674797192109148
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.43342054384710377, 0.6657431428296207]
+Error: 0.1497905071970693
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4299652615695942, 0.6577815618543349]
+Error: 0.15099179278173397
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.42436833149218794, 0.6625000700889782]
+Error: 0.1469973417317041
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.42306467930509484, 0.6529943021262958]
+Error: 0.1496983386161696
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.40590750173392126, 0.6373388116514042]
+Error: 0.1481420187491445
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4023281146754655, 0.6303821354862925]
+Error: 0.14924263881299396
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.39657930341504105, 0.6324370230235687]
+Error: 0.14618884297046786
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.39533086330787054, 0.6242182524806268]
+Error: 0.1487492066262301
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4623568080359687, 0.6615147393778779]
+Error: 0.16417304479781777
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.45114839322369676, 0.6535693893557775]
+Error: 0.16177452034982612
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4314608529104299, 0.6330868005036072]
+Error: 0.1603918817794377
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.42540844398365907, 0.6350974753861122]
+Error: 0.1570630983410935
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 0, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4240521967822717, 0.6290271534982215]
+Error: 0.1587205592187513
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4323775734769893, 0.6252321966901901]
+Error: 0.1637006362217548
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4258526017568082, 0.6282015505363414]
+Error: 0.1597922627233117
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.42331889333611006, 0.6223902684776131]
+Error: 0.160893997397859
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.407362071312904, 0.6025455489028604]
+Error: 0.161956948920634
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4027588355634172, 0.5996494303510729]
+Error: 0.16124762912131008
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.3962986784337735, 0.6000171777202363]
+Error: 0.1585194503236202
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46823649371022524, 0.6275315143814072]
+Error: 0.17898909341052682
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4632316208815764, 0.6255749860395352]
+Error: 0.1773888128319334
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4564655554110063, 0.6286688481330669]
+Error: 0.1731238138117509
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4529735239798838, 0.6254318607532295]
+Error: 0.1727431521827712
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.43827250832037185, 0.6051183669939078]
+Error: 0.17400714781749427
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4336806398732672, 0.6041800053169848]
+Error: 0.17237618279587436
+Correctness: Correct
+
+Current Input: [0, 1, 0, 1, 1, 1, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4267573049061933, 0.6045492902008723]
+Error: 0.16925153058571576
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4418422743625752, 0.672580838696606]
+Error: 0.15121395130125556
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.43760480034369337, 0.6767935133445664]
+Error: 0.14798019714999636
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.43852863822861565, 0.6663284192483873]
+Error: 0.15182204517396206
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.41640273622622337, 0.6471158848972728]
+Error: 0.1489592187142603
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4117674121843038, 0.6485972998221861]
+Error: 0.14651812971460848
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.41293115106969847, 0.6391929984490973]
+Error: 0.15034691394594962
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46859566682552617, 0.6778237397935799]
+Error: 0.16168972080412722
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4673395013513203, 0.6707613858911293]
+Error: 0.16340213727181527
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4630592559971718, 0.675156412773192]
+Error: 0.15997361536351754
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4443082980336624, 0.6560307505643643]
+Error: 0.15786235412944216
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.443728394669666, 0.6498396096701566]
+Error: 0.15975359359603358
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.439319601293963, 0.6442562113412102]
+Error: 0.15977767762519815
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4445799080063112, 0.6501018330314208]
+Error: 0.16004001092543593
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4379018561115364, 0.6463579898823457]
+Error: 0.15841035345299193
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41685124370012777, 0.6246671340346037]
+Error: 0.1573198598240707
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.41563021701277786, 0.6197292130576593]
+Error: 0.15867717434791795
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4103029951271561, 0.6193105382258691]
+Error: 0.15663650705809629
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4105570597830386, 0.6133275954209783]
+Error: 0.15903632390030809
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.47294241033991763, 0.648172922588344]
+Error: 0.17372840794907918
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4700280386854516, 0.6448689373942671]
+Error: 0.17352221438898469
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46479403575317524, 0.6473476391698268]
+Error: 0.1701985916354093
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.46282320044733294, 0.6429579231085835]
+Error: 0.17084217977162416
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4464224683049448, 0.6274558877035128]
+Error: 0.16904106790712858
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44436417540927825, 0.624800903112666]
+Error: 0.16911694134611943
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 0, 1, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4387991038346851, 0.6245042115073167]
+Error: 0.16677087035093235
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.44678581958549823, 0.6769965066364327]
+Error: 0.1519744126538767
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4458216358207896, 0.6693342988453235]
+Error: 0.1540483684430193
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4215659302930873, 0.6530370363590772]
+Error: 0.14905056586118426
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4206358478743328, 0.6463886056925522]
+Error: 0.15098776735050806
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4157684371286314, 0.6477447038259371]
+Error: 0.14847359349753075
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4164293825769951, 0.6400576178987755]
+Error: 0.1514859745530806
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4718276366428077, 0.6668022856862517]
+Error: 0.16682101776192182
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4672679352515894, 0.6712089765203736]
+Error: 0.16322143021753188
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4664137343167833, 0.6650159981805267]
+Error: 0.1648780265171579
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.44954543001271946, 0.6527703469453586]
+Error: 0.16132976280288375
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44829211592676915, 0.6485045007438988]
+Error: 0.16225745359969784
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4433206793189295, 0.6499708243056863]
+Error: 0.15952682427451892
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44827809959089, 0.6416539439906905]
+Error: 0.16468257521512353
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4428705467066639, 0.6439683477190183]
+Error: 0.1614464292830926
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4420035943975903, 0.6387245040210612]
+Error: 0.1629435807276089
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.42092619695738104, 0.6197574999859368]
+Error: 0.1608816110509744
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.415276614078365, 0.6193288536748759]
+Error: 0.1586825939224377
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4149052825850252, 0.6149435368350887]
+Error: 0.1602074366710151
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4795337000500915, 0.6429475754016034]
+Error: 0.17871950169766238
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4703955224212928, 0.6441989561787489]
+Error: 0.17393316514914642
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.46790796444038324, 0.6416441051236522]
+Error: 0.17367840528968548
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.45303270372015253, 0.6249178039811493]
+Error: 0.17296264220515756
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.45022955517824303, 0.624070837743897]
+Error: 0.172014693695287
+Correctness: Correct
+
+Current Input: [0, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4428011626845989, 0.6216345088959101]
+Error: 0.16961665726663588
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4275971279352306, 0.6523547434374181]
+Error: 0.15184826411446067
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4251829884627272, 0.6438382573647725]
+Error: 0.1538158802975288
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41969795886304234, 0.6473188716791065]
+Error: 0.15026517747375126
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4190775807595307, 0.6375446302899997]
+Error: 0.15349995686343698
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.3989829754482965, 0.6221909468617388]
+Error: 0.1509635476654027
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.3967049627154381, 0.6150396892972468]
+Error: 0.15278463412970866
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4541989718478653, 0.644262899527754]
+Error: 0.1664227953400294
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4485118520900582, 0.6478390222856404]
+Error: 0.16259011784499397
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 1, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4285453618149717, 0.6246593957217567]
+Error: 0.16226584817654094
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4261228855887922, 0.6196775521266239]
+Error: 0.1631129389894579
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 0, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4202421239629849, 0.6203935749910071]
+Error: 0.16035224033051443
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4299239938636457, 0.6162812110764458]
+Error: 0.16603737473631358
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 0, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4262383587065718, 0.6116439710240057]
+Error: 0.16624977183743775
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.41992815484448154, 0.6132881798913002]
+Error: 0.16294284352143712
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.39029811901498607, 0.5846144214613616]
+Error: 0.1624389002822578
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.3892610668829737, 0.5803247396082719]
+Error: 0.16382575118786785
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46148428315047424, 0.6165351820328838]
+Error: 0.18000650510673033
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.45689023220195235, 0.6144538902594485]
+Error: 0.17869724350881366
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4502461774873131, 0.6161445794940245]
+Error: 0.17503330209687817
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.44698842544651746, 0.6127935506120488]
+Error: 0.17486374346539046
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4270136506819902, 0.5912586704112109]
+Error: 0.17470506619138593
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.42039059847651283, 0.5905465722826743]
+Error: 0.17219018237845396
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4182737462847295, 0.5879502689515788]
+Error: 0.17236895384406928
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4344014329544393, 0.6473589842155365]
+Error: 0.15653014548318422
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4238031846091611, 0.6364529786036195]
+Error: 0.1558877880255235
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4024732200599129, 0.6143438127659802]
+Error: 0.1553576938086382
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.3965848218955254, 0.6150864019639819]
+Error: 0.15271899945546946
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.3954981624430146, 0.6087270831328552]
+Error: 0.1547566459847624
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.46430679984967826, 0.644603037534839]
+Error: 0.1709439026580561
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.46050106884170167, 0.6405853754663952]
+Error: 0.1706200533664909
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4544725511182552, 0.6441897931719962]
+Error: 0.16657310150146096
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 1, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.45214321717138106, 0.6389298171862169]
+Error: 0.1674025828756327
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.43236280241218356, 0.6185568842034432]
+Error: 0.16621822174915113
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4261034384251431, 0.6192667634280868]
+Error: 0.16326096883412705
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4245316755209213, 0.614940282544649]
+Error: 0.16424906476369777
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 0, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4265759878921022, 0.6109540927998369]
+Error: 0.16666189567766043
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 0, 0, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.423937641236086, 0.607027580665957]
+Error: 0.16707522300703367
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 0, 1, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.40740283230478913, 0.5859861734683041]
+Error: 0.1686922581646907
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4030334150609763, 0.5847869739200043]
+Error: 0.16741889534111015
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 0, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.39649754667969317, 0.5841424112552724]
+Error: 0.1650739193197972
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.394502203609569, 0.5814546974577176]
+Error: 0.16540607946650826
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+Target Output: [0, 1]
+Calculated Output: [0.4699400695732244, 0.6115241523227556]
+Error: 0.18587857660952029
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.4646116841056583, 0.6114268344342302]
+Error: 0.1834265610026496
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 1, 0, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.45759834800541527, 0.6132068689485577]
+Error: 0.17950258716293166
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [0, 1]
+Calculated Output: [0.43445160735691146, 0.5904008230067902]
+Error: 0.17825984246425938
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+Target Output: [0, 1]
+Calculated Output: [0.427377511014756, 0.5898080427224739]
+Error: 0.17545448936816785
+Correctness: Correct
+
+Current Input: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Target Output: [0, 1]
+Calculated Output: [0.42444250121495747, 0.5887795046161015]
+Error: 0.17462686633069402
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5744480096362679, 0.44197554104580283]
+Error: 0.18821843769263208
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5668649804458273, 0.43760246058153623]
+Error: 0.18955092933560425
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5589787497018666, 0.44172635957744316]
+Error: 0.19481095998003473
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5361709632766045, 0.4097353818077694]
+Error: 0.19151022920645577
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5277392708853831, 0.4121242279431395]
+Error: 0.1964382877607992
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.517620022989983, 0.41396104499928577]
+Error: 0.20202709449854261
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5994051259353975, 0.444484782823026]
+Error: 0.17902148764403364
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5736709772891119, 0.4448901269945892]
+Error: 0.1898418303514413
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5724752226015357, 0.41513959182920385]
+Error: 0.1775591579968622
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5642062179930167, 0.4152443241643171]
+Error: 0.18117203459331527
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5562024967505428, 0.4164663024125679]
+Error: 0.1852002024678242
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5451498786741134, 0.41939385459374134]
+Error: 0.19138991907058503
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5754074244832528, 0.4041987183050783]
+Error: 0.17182772953170639
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5612595934474, 0.40315753994476533]
+Error: 0.1775145731781279
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5517095342481482, 0.4037658124779782]
+Error: 0.18199558650500705
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5458842292473849, 0.37644845243905356]
+Error: 0.17396728529500005
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.539288924270248, 0.3770956968251546]
+Error: 0.1772279299320571
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5314225803879341, 0.37760105080896783]
+Error: 0.1810736758711694
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5221586747362661, 0.38114091623285085]
+Error: 0.18680036507830927
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5925567411708141, 0.4089309441074796]
+Error: 0.16661726310699077
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5758383369420711, 0.41089444785605234]
+Error: 0.17437368184349905
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.57300161540152, 0.38311799769202126]
+Error: 0.16455351030262755
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5582288960711191, 0.38362561087873315]
+Error: 0.1711651587943116
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5481355950303438, 0.38754036900786126]
+Error: 0.17718448904466536
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5822346247793525, 0.43723927473231533]
+Error: 0.18285304605084474
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5761086759627538, 0.43291461753054744]
+Error: 0.1835494603328349
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5687753409224962, 0.4360997301719725]
+Error: 0.18806884062628831
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5525133633620977, 0.4071196054506499]
+Error: 0.18299533155589742
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5461058515798222, 0.40601269495528186]
+Error: 0.1854331032174646
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5380674238166899, 0.4074395766815931]
+Error: 0.1896943567929127
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5289698702487478, 0.40926250430077954]
+Error: 0.19468259028001356
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.6065161169633057, 0.4402417289836039]
+Error: 0.17432117307405395
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.6001426378233428, 0.4375032390695163]
+Error: 0.1756474971415964
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5936400891158887, 0.43981514943545863]
+Error: 0.17928287142333882
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5842642944171553, 0.4399720010499884]
+Error: 0.18320576930219834
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5806473006924906, 0.41239962158612964]
+Error: 0.17296506715043866
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5738037408500412, 0.4123107450650682]
+Error: 0.1758217009047653
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5663243292540817, 0.4126913438242524]
+Error: 0.1791943663321947
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 0, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.556521599489307, 0.4154248729669348]
+Error: 0.18462545839955827
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5826119494717297, 0.4020506380054632]
+Error: 0.167928750122195
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5773862716640252, 0.3994844170118581]
+Error: 0.16909508140666862
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5703920173784027, 0.39997563928325053]
+Error: 0.17227176537612177
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5621957623311151, 0.400363250200425]
+Error: 0.17598164131594077
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5408896208273224, 0.37467549483949336]
+Error: 0.17558203334864952
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5327987415756811, 0.37769420204853216]
+Error: 0.18046496306717233
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.6062331956171555, 0.4086061926949609]
+Error: 0.16100565847127443
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.6006035133045283, 0.40724747340212974]
+Error: 0.16268402908855223
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5943229160092725, 0.40691386760801507]
+Error: 0.16507639606346652
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5858494451874345, 0.4081873979937361]
+Error: 0.16906881696622625
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5804999566862835, 0.38245775308551677]
+Error: 0.16112710961771606
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5745795789635411, 0.3831004284622592]
+Error: 0.1638742364614023
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5675571950996445, 0.38171098260913]
+Error: 0.16635502687725723
+Correctness: Correct
+
+Current Input: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5587583240070426, 0.38500280208146603]
+Error: 0.17146068712182724
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5586811150451648, 0.401284387856979]
+Error: 0.1778957590777647
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5534580279690952, 0.3957261536343979]
+Error: 0.17799946072776224
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5461793563894639, 0.3985232492770895]
+Error: 0.1823869783907252
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5381305303065685, 0.3962424300330103]
+Error: 0.18516573519667834
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5159801150297622, 0.37172666668022636]
+Error: 0.1862279818838972
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5084040255056697, 0.37324467172640546]
+Error: 0.19048909355559124
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5795989653515795, 0.4015114146101741]
+Error: 0.16897422299786277
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5728204563037438, 0.40298502565779626]
+Error: 0.17243964672847817
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5641602867458363, 0.4017045742912105]
+Error: 0.17566141032797714
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5572489393610569, 0.3760598583014034]
+Error: 0.16872475936129033
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5515302444695404, 0.3749921187105007]
+Error: 0.17087210536027025
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5443500392351418, 0.3753724334596715]
+Error: 0.17426067527322614
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 0, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5358213634351665, 0.3773658274156653]
+Error: 0.17893338717214874
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5542854687289008, 0.36345182442214313]
+Error: 0.165379336031
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5476303712146274, 0.3640115367849512]
+Error: 0.1685713399799788
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5407977105561107, 0.36372872721578026]
+Error: 0.1715826648162605
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5264238649721397, 0.3419793123473992]
+Error: 0.17061210287076312
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5198482440595412, 0.3423624168713735]
+Error: 0.173878866609357
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5135435175325856, 0.3452306395744438]
+Error: 0.17791205191777465
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5837462342476605, 0.3737453627839608]
+Error: 0.156476396852759
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5788717993914105, 0.37115995546762737]
+Error: 0.15755433694527976
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5725560697713128, 0.37043433963570893]
+Error: 0.15996495673534528
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5569794316047901, 0.3477582438764243]
+Error: 0.1586015101026147
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5459510899958462, 0.34685142217725135]
+Error: 0.163233160871171
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 0, 1, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5386723142925194, 0.3497005383109738]
+Error: 0.16755685004760243
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5653645039886332, 0.39858357555012974]
+Error: 0.1738884405456864
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5614501905634682, 0.3929757013752789]
+Error: 0.17337791861410534
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5546302439362691, 0.394688868272217]
+Error: 0.1770667611771353
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5479086866942253, 0.3922645420747597]
+Error: 0.1791290132678305
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5354260131865226, 0.36914979316210395]
+Error: 0.17605027950769658
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5315649812441724, 0.3671935496434207]
+Error: 0.1771312348482539
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.524527092612813, 0.36799555045586935]
+Error: 0.18074760540727136
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.518102853034763, 0.36912802523603827]
+Error: 0.18424017963394626
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5917038200925905, 0.40398966575197903]
+Error: 0.16495671028068973
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5872429712053371, 0.3996525896868602]
+Error: 0.165045278631406
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5809748051002224, 0.40019059191525364]
+Error: 0.16786731190913884
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5736938362132955, 0.398760630137974]
+Error: 0.17037349271528535
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5640947167403654, 0.3749491422484145]
+Error: 0.16530013762324205
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5596550003832887, 0.3735252999873702]
+Error: 0.1667124342090482
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5528951354750933, 0.37296635987019683]
+Error: 0.16950333273833018
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 0, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5456568339538499, 0.3744529650437465]
+Error: 0.17332136778144638
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5642996567922439, 0.36620323721907283]
+Error: 0.1619698000105425
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5614030204959336, 0.36258220183427686]
+Error: 0.16191658175854137
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5551357239660716, 0.3621664983946769]
+Error: 0.1645343983253264
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5495943757762821, 0.36144815481361914]
+Error: 0.16675499747526346
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5334796631278438, 0.34060810676301084]
+Error: 0.16682755355399637
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5272331670800363, 0.34007265294834604]
+Error: 0.16957894379624955
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5221371018402422, 0.3422141082428286]
+Error: 0.17273172265903874
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5858606667315052, 0.371182965734229]
+Error: 0.15464409070566562
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5799629557646352, 0.36966449469745283]
+Error: 0.1565414785849525
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5629882530859375, 0.3481094136887277]
+Error: 0.1560797154197952
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.559553435256689, 0.3475847239998733]
+Error: 0.15740415837612587
+Correctness: Correct
+
+Current Input: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5474171061688525, 0.3478863124997167]
+Error: 0.1629280811066131
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5739274180421977, 0.42196579102725945]
+Error: 0.17979648694672445
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5659668515605006, 0.4194496396980885]
+Error: 0.18216138709358037
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5579721838957968, 0.42215438747886636]
+Error: 0.18680145853875404
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5472153137753826, 0.42259237708053876]
+Error: 0.19179914462305275
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5437615970170148, 0.39298771769038254]
+Error: 0.18129641330598031
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5357813487900451, 0.39371384990612934]
+Error: 0.18525477586954794
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5273756277315467, 0.39510217868293623]
+Error: 0.1897397644310762
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5983624017745022, 0.4263213158765247]
+Error: 0.171531312339519
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5901536144001994, 0.4251758926623083]
+Error: 0.17437429974520557
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5828589135583981, 0.4269081354979182]
+Error: 0.17812862107599442
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5717660765021367, 0.4286107915072672]
+Error: 0.18354575191542993
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5714982962656946, 0.3986284304334014]
+Error: 0.1712591678264998
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5628852691556443, 0.40013123085765856]
+Error: 0.1755871449143992
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5548369516926861, 0.40039460380917946]
+Error: 0.17924298916888481
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5434993495081327, 0.4046121487657859]
+Error: 0.1860519174141822
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5745390117068891, 0.38739806603103677]
+Error: 0.16554715706196907
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5675790426635693, 0.38652904461464943]
+Error: 0.16819629333723446
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5600198789043321, 0.38688840328047525]
+Error: 0.1716325717761371
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5501885637602967, 0.38895192005838225]
+Error: 0.17680696214456343
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5456958016571286, 0.3619550056584813]
+Error: 0.16870186537659515
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5980176316794837, 0.39480565534868167]
+Error: 0.15873066496793659
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5907046008219238, 0.3947910998568966]
+Error: 0.1616913681572794
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5837388843475265, 0.3942028152297811]
+Error: 0.16433458796966344
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5736214827658407, 0.39685576315052706]
+Error: 0.16964656835229375
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5717726658855712, 0.36923942034495116]
+Error: 0.1598581996097131
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.56421792789526, 0.37127534454860717]
+Error: 0.16387569791879386
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5567365351072255, 0.3701306040331199]
+Error: 0.16673958167533504
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 0, 1, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5464224905036634, 0.37482179035752394]
+Error: 0.17311196582385946
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5754358738875479, 0.4157903769769243]
+Error: 0.17656816738412145
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5679713812352541, 0.41756620607256817]
+Error: 0.1805051319428063
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5524784512202334, 0.3902323734004948]
+Error: 0.1762784209360121
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5457999678014591, 0.390631109395004]
+Error: 0.17944516643816358
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5283811165399999, 0.39436266119866736]
+Error: 0.18897313989187603
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.6057636109286216, 0.42325636952061396]
+Error: 0.16728414240390488
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5989850371067788, 0.42208620367793925]
+Error: 0.16948488189975322
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5922990214525639, 0.4230132415250575]
+Error: 0.1725801452070368
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5825758522159751, 0.42462091159481397]
+Error: 0.17727291885841517
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5798613635624312, 0.3967500117558675]
+Error: 0.1669635228279503
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5726416237472547, 0.3978544882430883]
+Error: 0.17046168778427634
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5650936431992418, 0.39734919546545544]
+Error: 0.17351496116137655
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 0, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5549697224378158, 0.40116098557396274]
+Error: 0.1794910421468739
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5763366416108052, 0.3849684275713897]
+Error: 0.1638456657341998
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.560766055077201, 0.3861274571254887]
+Error: 0.17101043575932026
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5534767958656069, 0.36091081572793443]
+Error: 0.16481979436992394
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.6049586511082624, 0.3941410548544118]
+Error: 0.155702419227976
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5989532887465984, 0.3938354560546958]
+Error: 0.15797241552648977
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5925441084665731, 0.3925749230098462]
+Error: 0.16006768686074319
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5837710010341555, 0.3947587060246343]
+Error: 0.16454050778117632
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5793881789904091, 0.36909308189228585]
+Error: 0.1565720035368749
+Correctness: Correct
+
+Current Input: [1, 0, 1, 0, 1, 1, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5661166980640601, 0.36861686210096284]
+Error: 0.16206655536199716
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5583748071029044, 0.38235031824401594]
+Error: 0.17061228843134857
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5529094512109757, 0.3787548532828447]
+Error: 0.17167259885089006
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5456547132762313, 0.3803872018426979]
+Error: 0.17556203144691052
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5373683419000049, 0.3800207495441035]
+Error: 0.17922191058020648
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5290385256723467, 0.3557092884924478]
+Error: 0.17416690411034016
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5238837378244885, 0.3557103053549783]
+Error: 0.17660825822185613
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5166292754628189, 0.35684257369065864]
+Error: 0.1804919398688863
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5088939799284912, 0.3598689120480719]
+Error: 0.18534537840457008
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5842311980086077, 0.3882201788469356]
+Error: 0.16178930198665215
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.578132144251797, 0.3855941269675872]
+Error: 0.16332765923274117
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5713024132427413, 0.3859061791788303]
+Error: 0.1663526000099504
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5623831470741945, 0.3862619163129315]
+Error: 0.1703533889792121
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.543689990745953, 0.36090357561136366]
+Error: 0.16923510771724787
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 0, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.534946059679343, 0.3641360871449383]
+Error: 0.17443512868449768
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5580171359210983, 0.3515261517006956]
+Error: 0.15945974373444471
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5537100930996006, 0.349693970305227]
+Error: 0.16073027693450004
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.540104365717017, 0.35063506136039374]
+Error: 0.16722447034387716
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.530915166808162, 0.32959139043637575]
+Error: 0.164335532690199
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.527110714852271, 0.33060486485337587]
+Error: 0.16646192633612453
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5207091616292104, 0.3306365603860142]
+Error: 0.16952012140503436
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5142374811183147, 0.33446142598961864]
+Error: 0.1739148351126444
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5772158904564335, 0.35785918013844625]
+Error: 0.1534047980459537
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5631739829903452, 0.35776712654616455]
+Error: 0.1594071429868093
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5565051454707474, 0.3353983644267759]
+Error: 0.15458987442703964
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 0, 1, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5379297037183867, 0.3387219423251932]
+Error: 0.1641207564591647
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5609836823048404, 0.3767685219548897]
+Error: 0.16734492316934474
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5541615304504935, 0.3773590732935805]
+Error: 0.17058590556361802
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5471828676414187, 0.3766901114958496]
+Error: 0.17346939772810227
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.535962455537076, 0.3539777114089931]
+Error: 0.1703155314227643
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5320175104920435, 0.35346753157181127]
+Error: 0.171973453180767
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5251019243043556, 0.3536154102196537]
+Error: 0.17528602032211996
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.590762037511816, 0.38728089349660005]
+Error: 0.1587311002045026
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5859383200025294, 0.38452162233104215]
+Error: 0.15965197644121215
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5795927773136087, 0.38396292677137395]
+Error: 0.16208488101086224
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5720115843378529, 0.38397882611515416]
+Error: 0.16530691142288328
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5636486875771148, 0.360337852715211]
+Error: 0.16012291797629172
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.558934035507458, 0.360101358189188]
+Error: 0.16210608660171708
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 0, 1, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5522367660433479, 0.3589620641893783]
+Error: 0.16467283860520943
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5639811630440174, 0.35149220673982656]
+Error: 0.15682959878964037
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5608432312988223, 0.34925154280434045]
+Error: 0.15741765382363587
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5546424735863326, 0.34817232167753803]
+Error: 0.15978364595781375
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.548869656390246, 0.34868688805297926]
+Error: 0.1625505664127628
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5367320607968668, 0.3290940648968887]
+Error: 0.16146004352193777
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5340694007970036, 0.3293775831519079]
+Error: 0.16279045777832762
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 1, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5279896291251966, 0.32857585366624315]
+Error: 0.16537794091293492
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5227291067265749, 0.3315412558263605]
+Error: 0.16885355494046667
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.588345583851134, 0.3600205884280033]
+Error: 0.14953709121345474
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5842904720570226, 0.35832267893431]
+Error: 0.15060477693061688
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 0]
+Calculated Output: [0.5783873015882711, 0.35618676937124993]
+Error: 0.15231314106857372
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 1, 0, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5718597060652033, 0.35689711008393626]
+Error: 0.1553398292384197
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 1, 1, 0, 0]
+Target Output: [1, 0]
+Calculated Output: [0.562502394489281, 0.3360032047343156]
+Error: 0.15215115420967157
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5588149568791864, 0.33622964088046126]
+Error: 0.15384730684005907
+Correctness: Correct
+
+Current Input: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+Target Output: [1, 0]
+Calculated Output: [0.5465905196143326, 0.33697209422964813]
+Error: 0.1595651745965579
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5366988668151185, 0.6711785423234018]
+Error: 0.1613857455194791
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5301912759858953, 0.6692750724667532]
+Error: 0.16504960742581626
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5253141311972582, 0.6782248735447512]
+Error: 0.16443295302315256
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5196398619700323, 0.6754712219785483]
+Error: 0.16803239498613315
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5183878216648257, 0.6603587013853864]
+Error: 0.17365325102268642
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5131508261862988, 0.6596302103495921]
+Error: 0.17643685587487318
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5081444884674889, 0.6661383914307946]
+Error: 0.17669270895066275
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5038756849210335, 0.6644929763343442]
+Error: 0.17935214947078026
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5570478526084273, 0.6587840529335723]
+Error: 0.15631746370562238
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5484519834627919, 0.6590947222820782]
+Error: 0.16005600980731008
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5411167045221257, 0.6503788391372511]
+Error: 0.1664044174958251
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5336777702459599, 0.6523261701471542]
+Error: 0.16916675696366268
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5284286958022141, 0.6588640974618655]
+Error: 0.16937659947165418
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5217845351416714, 0.6600168304988241]
+Error: 0.17213929318686627
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5400095411134473, 0.6427008859518071]
+Error: 0.16962693958314246
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5271277851194794, 0.6515120570395335]
+Error: 0.17252598899741328
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5284083246419709, 0.6320784520752858]
+Error: 0.17888248684715527
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.51581731855546, 0.6402300403811843]
+Error: 0.18193364642747462
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.509800886307886, 0.6425330951556796]
+Error: 0.18403887956175627
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.568157277840317, 0.6301992184370303]
+Error: 0.1616203773634342
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.558733101996445, 0.6343773843506231]
+Error: 0.1641981861739859
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5530200879719789, 0.6417095178259817]
+Error: 0.164081555686534
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5516554805492947, 0.6243030363675227]
+Error: 0.17108050830207341
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5288058277389547, 0.6399101290836112]
+Error: 0.1758443315546766
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5440172152532542, 0.6598598139492226]
+Error: 0.1618078230760273
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5371877387546876, 0.6593933043668954]
+Error: 0.16510405513455081
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5319799059367784, 0.6683843736271998]
+Error: 0.1645058660507857
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5257071665814274, 0.6673693880038454]
+Error: 0.16779840793457712
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5255434973875182, 0.6508252277365105]
+Error: 0.17351599722826386
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.519827635079849, 0.6519014213770706]
+Error: 0.17586906023615723
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5144694386749065, 0.6584121703604384]
+Error: 0.17621108566926327
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5649738674253645, 0.6470628235663991]
+Error: 0.15690619326588354
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5563043627032664, 0.6487689278620657]
+Error: 0.16011454229565866
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5424393153724743, 0.6591445351600519]
+Error: 0.1627721140140336
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5489615878020814, 0.6403924833268491]
+Error: 0.16637660766292506
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5412696001241631, 0.6439620752879132]
+Error: 0.16859829180176739
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 0, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5357204994532346, 0.650458854364612]
+Error: 0.1688672335600267
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5557260966896611, 0.6299650261630966]
+Error: 0.16715259151254108
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5421808303471167, 0.6406539050369221]
+Error: 0.16936400403343446
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5344719270178516, 0.6437791685701019]
+Error: 0.1718048337395402
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5234574226038904, 0.633001855247525]
+Error: 0.18089023316154287
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5169110656603632, 0.637053831693865]
+Error: 0.18255241978475562
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5764276456621206, 0.6192904372240954]
+Error: 0.1621766552741773
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5672746933622733, 0.6246656175150743]
+Error: 0.16406354484002753
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.561475642606871, 0.6317712313403514]
+Error: 0.16394801904782885
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5519044197785062, 0.637280821375473]
+Error: 0.16617742577804434
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5601510153563971, 0.615110274748699]
+Error: 0.17080361494801521
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5515806642462833, 0.6220339446276733]
+Error: 0.17196911984576066
+Correctness: Correct
+
+Current Input: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5367855480202334, 0.6334884962231558]
+Error: 0.1744491554618396
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5393171014480137, 0.648914616990639]
+Error: 0.1677448395905447
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5323266047374361, 0.6479210764116682]
+Error: 0.17133898653576637
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5264075866917153, 0.6565706015182816]
+Error: 0.17111676284234006
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5197355847914046, 0.6550837523402633]
+Error: 0.1748105632076635
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.517440722644449, 0.6360518223137294]
+Error: 0.18266086610153442
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.504897653566378, 0.6423936811485677]
+Error: 0.1865043063632753
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.49937029379337405, 0.6420158475610079]
+Error: 0.18939137806699807
+Correctness: Not Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5541608958069374, 0.6383575679631892]
+Error: 0.1647788777385859
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5394840164573955, 0.648083546414175]
+Error: 0.16796008070131824
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 0, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5359744852303343, 0.6303158943793034]
+Error: 0.1759930081529138
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5501780909083376, 0.6163228216090134]
+Error: 0.17477396355846836
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5423994985308329, 0.6188779734053979]
+Error: 0.1773261090502049
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5358503458952918, 0.6256505758319758]
+Error: 0.17778619639022578
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5198557879425779, 0.6089539028017893]
+Error: 0.1917277572530976
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5127366780849387, 0.6130111188022968]
+Error: 0.19359296952717536
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5055698635553267, 0.6163636783169854]
+Error: 0.19581899356958585
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5734417000857662, 0.6072486440792978]
+Error: 0.16810280540163575
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5644903151734233, 0.611860087807397]
+Error: 0.1701606385073129
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5581529046097001, 0.6184451542586191]
+Error: 0.17040647800678685
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5483564023688531, 0.6234231890358639]
+Error: 0.17289601691856202
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5539899339354147, 0.5991546387137878]
+Error: 0.17980099134780483
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5453470243166135, 0.6052680657367222]
+Error: 0.18126131411249335
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 0, 1, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5384008197993124, 0.6095210541170621]
+Error: 0.18277380516989858
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5472014763281962, 0.6376977664386305]
+Error: 0.16814470574146112
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5402884700072931, 0.6380042179737282]
+Error: 0.1711878185065238
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5342256239369338, 0.6465557763618507]
+Error: 0.17093429431005636
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5271964560805593, 0.6468026450742425]
+Error: 0.17414578133466702
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5256670448137034, 0.6267728810861241]
+Error: 0.18214511733425887
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5192477643645331, 0.6288511558534902]
+Error: 0.18443708828989486
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5127351649599858, 0.6347227299617866]
+Error: 0.18542725173657104
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5067077562698095, 0.6362405475950855]
+Error: 0.18782908846914448
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5707263895033703, 0.6258578103361006]
+Error: 0.16212910537765474
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5625747776896137, 0.6281492958372424]
+Error: 0.16480688564981474
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5566244312717857, 0.6364409786043924]
+Error: 0.16437852849159965
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5477386629295382, 0.6391907163139475]
+Error: 0.16736182810140207
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5522143493617395, 0.6178174570271899]
+Error: 0.17328774253534704
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5445387082553141, 0.6220977182372929]
+Error: 0.17512756141959918
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5381103945579077, 0.6279686141155472]
+Error: 0.17587467984927918
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 0, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5301125889899827, 0.6320956838305282]
+Error: 0.17807388244091182
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5583887545550618, 0.6061987897239177]
+Error: 0.17504994265916834
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5445601661650779, 0.6164202770696894]
+Error: 0.1772794230434377
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5364082591810121, 0.620496769863792]
+Error: 0.17947000191969767
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.536045333229161, 0.5968302043243283]
+Error: 0.18889990848180155
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5288935796407077, 0.6020921009093989]
+Error: 0.1901359777312211
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5217239079780123, 0.6061366414279147]
+Error: 0.19193818271275398
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5142765559020658, 0.6110521749813566]
+Error: 0.19360383736654616
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5814553715555715, 0.5973041572953091]
+Error: 0.16867177386566296
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5732694417668092, 0.6027185683587969]
+Error: 0.16996575262844732
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5671054957954266, 0.6089423569506224]
+Error: 0.17016186597892896
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5575018771585509, 0.6151617971874394]
+Error: 0.17195251553110386
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5626871855494406, 0.5909000372818413]
+Error: 0.1793026385893341
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5545932926425163, 0.597835619808396]
+Error: 0.1800616618269661
+Correctness: Correct
+
+Current Input: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5386156049392153, 0.6090382168411984]
+Error: 0.182863337948158
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5399396344940237, 0.6568613529608568]
+Error: 0.1646998355006731
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5277842665860057, 0.664754987785983]
+Error: 0.16768845854904646
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5215008812913084, 0.6639922126839082]
+Error: 0.17093131987102522
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5215883927788811, 0.6470520666334417]
+Error: 0.1767249547958093
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.515739457188451, 0.6484240864578027]
+Error: 0.1790569481535833
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5105148272692218, 0.6536805353552223]
+Error: 0.17976645295756258
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5055848382744476, 0.6540285166711409]
+Error: 0.1820713097104376
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5595871924200576, 0.6457472365081013]
+Error: 0.15972923076104723
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5504774745206121, 0.6482158028002741]
+Error: 0.16291131115641128
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5451886790687612, 0.6560204275779766]
+Error: 0.16258764194542816
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5437527847753972, 0.6387671590808263]
+Error: 0.16932534337937105
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5357167052768559, 0.6427893391123013]
+Error: 0.17157921700540218
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5302826370057256, 0.6481687559871153]
+Error: 0.17220981268097446
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5230478354708592, 0.651218811481815]
+Error: 0.17456584235659514
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5507411611701635, 0.6277160788126575]
+Error: 0.17021441112067826
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5424176255820111, 0.6317617667592048]
+Error: 0.1724905128991534
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5366211725863107, 0.6380062884687461]
+Error: 0.17287969244172918
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5287388988394233, 0.6413969189775469]
+Error: 0.17534159759293771
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5313064764748348, 0.6201054794765333]
+Error: 0.18199673285909465
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5239519288587177, 0.6252015741960539]
+Error: 0.18354781301122575
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5178420146851889, 0.6289637277599774]
+Error: 0.18507211906030488
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5111325625052976, 0.6328904446556337]
+Error: 0.18688039853388755
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5705130193576811, 0.6187597454675956]
+Error: 0.1649015991085941
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5605915602681327, 0.625027008148865]
+Error: 0.16684226076269268
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5547277528007485, 0.6312218543904194]
+Error: 0.16713234740255617
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5449536881415563, 0.6370656174653893]
+Error: 0.16939425598087557
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5540152602754579, 0.614070723576679]
+Error: 0.17392189723389784
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5447799743347288, 0.6213908205167414]
+Error: 0.17528509127783823
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 0, 1, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5386077119153101, 0.6254865606615393]
+Error: 0.17657157987457417
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5475671235612305, 0.6458999930568805]
+Error: 0.16504116129988808
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5401670101518729, 0.6475417300077071]
+Error: 0.16783660531931394
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5279257776459576, 0.6564987438032482]
+Error: 0.17042359220996017
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5290952934078399, 0.6381573546043124]
+Error: 0.17634067135879883
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5228002911234565, 0.6413151156169989]
+Error: 0.17818720421835235
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5116994310125867, 0.6488259479436054]
+Error: 0.18088033025556943
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5677905224762806, 0.634514428604595]
+Error: 0.16019236767977613
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5530905109589764, 0.6461214507671141]
+Error: 0.1624790595010404
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5441236395310443, 0.6498151767170661]
+Error: 0.16522633324606045
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5519308255101055, 0.6293935982543218]
+Error: 0.16905754507146725
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5436504273685803, 0.6349543465998965]
+Error: 0.17075663075359399
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 0, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5301110519504878, 0.6451345321601832]
+Error: 0.1733625618821246
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5590502948243861, 0.6174853221436013]
+Error: 0.17037706063502267
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5507457981873436, 0.6229541423438447]
+Error: 0.17199645831099636
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5447643093879992, 0.6291196519678292]
+Error: 0.17239588328172473
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5364484846124469, 0.6342297580896138]
+Error: 0.17433393864263969
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5322364584190786, 0.6184240571914995]
+Error: 0.1822014654812612
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.525895020563019, 0.6223413176832628]
+Error: 0.1837008059280772
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5790582046739506, 0.6084741974086264]
+Error: 0.16524222457356846
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5694115234608909, 0.6158265103850061]
+Error: 0.16649785312561638
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5634808425310494, 0.6218713808873593]
+Error: 0.16676511371471753
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5534192398017121, 0.6291785785972818]
+Error: 0.1684714509752065
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5628431794146109, 0.6054210429264026]
+Error: 0.17339931957480692
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5536745473634535, 0.6138273733987919]
+Error: 0.17416785360364712
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5473666538178348, 0.6180333628992156]
+Error: 0.17538772896707305
+Correctness: Correct
+
+Current Input: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5381033235286904, 0.6257472144011221]
+Error: 0.17670684363188066
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5426019529980814, 0.6335172447969454]
+Error: 0.1717612916311957
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.535028300502344, 0.6345600396956731]
+Error: 0.17487252296048328
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5289003491605222, 0.6419728094598671]
+Error: 0.17505917509356925
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5215800482732259, 0.6425746323656726]
+Error: 0.17831927181939147
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.507072978838726, 0.6286110099680101]
+Error: 0.19045341505395424
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5008783727500505, 0.6301700037188168]
+Error: 0.19294831246898872
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.565423579017879, 0.6234047694311976]
+Error: 0.16534031668039956
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5501885696461134, 0.6340773227338378]
+Error: 0.16811486430732264
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5464659054647906, 0.6147758836463566]
+Error: 0.17704539736315883
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5379752333201498, 0.6197066819396312]
+Error: 0.1790449463934674
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5314249111712259, 0.6244860512310627]
+Error: 0.1802866697954668
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5230638474346664, 0.628753021083087]
+Error: 0.18264620648937901
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5531301813313075, 0.6022132129461673]
+Error: 0.1789634813958007
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5447545174698277, 0.6068616721519905]
+Error: 0.1809030970936292
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5379856449709878, 0.6123267502392549]
+Error: 0.1818739064164656
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5297969655767581, 0.591609390179749]
+Error: 0.19393689188509045
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5218577650341616, 0.597282706100039]
+Error: 0.19540060783211732
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5066227749561562, 0.6050779970697371]
+Error: 0.19969223729520716
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5663281932252204, 0.601630607817013]
+Error: 0.1733847043097721
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.549445797657206, 0.6138111648606908]
+Error: 0.17607045281750394
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5469327595184209, 0.5953139276660617]
+Error: 0.18452037076933128
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5397674530065797, 0.5986080502630576]
+Error: 0.18646474731283746
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5299832829835621, 0.6057022595775006]
+Error: 0.1881932111885995
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5508047205558076, 0.622855502589509]
+Error: 0.172007185500979
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5433557210494762, 0.625316751597256]
+Error: 0.1744557670659381
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5371003167103444, 0.632582255227161]
+Error: 0.17463595798181122
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5294468279248656, 0.6349784920595973]
+Error: 0.17733049450452823
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5290032311109079, 0.6130370326754694]
+Error: 0.18578914719228531
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5220753498190436, 0.6170780380433357]
+Error: 0.1875206000996653
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5153274261062584, 0.6216912373303489]
+Error: 0.1890125118987134
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5086586773281336, 0.6250456963905757]
+Error: 0.19100351258008372
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5737251315405243, 0.6127037117548528]
+Error: 0.16585433918430573
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5650309932951735, 0.6172124708263311]
+Error: 0.1678621646423329
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5589228413163958, 0.6242457305907487]
+Error: 0.16787016544584077
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 1, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5552032348164769, 0.605934744535593]
+Error: 0.17656579394097724
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5316364820863398, 0.6226289367338206]
+Error: 0.18088665215155314
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5616774276765693, 0.592858606248745]
+Error: 0.17894539595697184
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 0, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5538008570796233, 0.5985451789156309]
+Error: 0.18012982425738078
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 0, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5470889111890909, 0.6038294809217434]
+Error: 0.18103976727730925
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 0, 1, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5390145270543217, 0.584244022429905]
+Error: 0.19268031957610798
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 0, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.531301029471317, 0.590976701808153]
+Error: 0.19348939171919194
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.523899746660955, 0.5940029907151053]
+Error: 0.19575251138889085
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5157722326486561, 0.6002648423486223]
+Error: 0.19713236346831947
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5841588460360091, 0.5858186507166343]
+Error: 0.1722350277121465
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 1, 0, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5754260672884199, 0.5930501794448966]
+Error: 0.17293559039400408
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5691029620846123, 0.5981895014791051]
+Error: 0.17356196700293258
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5589357646436185, 0.6060591000364586]
+Error: 0.17486354618729721
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5565594791524396, 0.588333883716045]
+Error: 0.1830542434129352
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+Target Output: [1, 1]
+Calculated Output: [0.5495053001084371, 0.5916384383995476]
+Error: 0.1848523198115747
+Correctness: Correct
+
+Current Input: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Target Output: [1, 1]
+Calculated Output: [0.5397124674416215, 0.5998345353058182]
+Error: 0.1859985058812954
+Correctness: Correct
+
+
+
+Number of Right Prediction: 819
+Number of Wrong Prediction: 1
+Accuracy: 99.8780487804878
+Average Error: 0.1688828290190672
