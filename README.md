@@ -22,7 +22,7 @@
 <ol>
     <li>Title</li>
     <li>Objectives</li>
-    <li>Methodology (Theory+Flowchart)</li>
+    <li>Methodology (Theory + Flowchart)</li>
     <li>Implementation</li>
     <li>Code</li>
     <li>Output</li>
